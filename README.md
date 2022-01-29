@@ -14,9 +14,7 @@ The model is potential to predicting multiple faces with or without masks at the
 </video>
 </p>
 
-
-https://user-images.githubusercontent.com/96331104/151658626-d5fb6658-f04d-4828-b91f-2b08cd11cc89.mp4
-
+![Mask-Detection](https://user-images.githubusercontent.com/96331104/151658725-2ec5c2c9-be8b-4214-ae89-b0b71ea99a96.gif)
 
 
 # Installations
