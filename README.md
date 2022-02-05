@@ -9,10 +9,6 @@ Model can be used in real-time applications which require face-mask detection fo
 The model is potential to predicting multiple faces with or without masks at the same time.
 
 ## Preview
-<p>
-<video width="320" height="240" controls autoplay src="Images/Mask Detection.mp4" type="video/mp4">
-</video>
-</p>
 
 ![Mask-Detection](https://user-images.githubusercontent.com/96331104/151658725-2ec5c2c9-be8b-4214-ae89-b0b71ea99a96.gif)
 
@@ -53,12 +49,12 @@ python OpenCVMaskDetection.py
 
  Training Accuracy: 99.89%, Training Loss: 0.21%, Testing Accuracy: 99.48%, Testing Loss: 0.91%
 <p>
-  <img src="Images/Accuracy.png" width="350" alt="Accuracy">
+  <img src="Git Assets/Accuracy.png" width="350" alt="Accuracy">
 </p>
 
 Model gave 99% accuracy for Face Mask Detection after training
 <p>
-  <img src="Images/Classification Report.png" width="350" alt="Classification Report">
+  <img src="Git Assets/Classification Report.png" width="350" alt="Classification Report">
 </p>
 
 
