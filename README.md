@@ -38,9 +38,9 @@ $ venv\Scripts\activate         # For Windows
 pip install -r requirements.txt
 ```
 # Getting Started
-Run OpenCVMaskDetection.py
+Run MaskDetection.py
 ```
-python OpenCVMaskDetection.py
+python MaskDetection.py
 ```
 
 # Results
